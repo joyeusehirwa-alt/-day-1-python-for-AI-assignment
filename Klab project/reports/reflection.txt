@@ -1,0 +1,8 @@
+REFLECTION
+
+
+What clicked immediately: The Python fundamentals in Task 2 clicked right away — things like f-strings, casting between types, and list/dict comprehensions felt intuitive once I saw them applied to a concrete example, like formatting a model's accuracy as a percentage. Writing short, readable one-liners instead of full loops made sense quickly.
+
+What's still fuzzy: Task 4 and 5 are where things got fuzzy. NumPy broadcasting — subtracting column means from a 2-D array without writing an explicit loop — worked, but I don't fully understand the rule for when shapes are "compatible" versus when broadcasting would fail. On the Pandas side, filtering and handling missing values felt mechanical rather than intuitive. For Task 5, the trickiest part wasn't the Matplotlib code itself but writing a title that states an actual finding about the data rather than just describing the chart.
+
+Time spent: Roughly 7 hours.
