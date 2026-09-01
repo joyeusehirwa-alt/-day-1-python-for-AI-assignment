@@ -22,3 +22,4 @@ print("all good")
 - **Assignment 1:** Python fundamentals, functions, NumPy/Pandas basics — see `notebooks/`
 - **Assignment 2:** Titanic dataset wrangling and analysis — see `notebooks/assignment2_data_wrangling.ipynb`, cleaned data in `data/processed/`, charts and report in `reports/`
 - **Assignment 3:** Machine Learning fundamentals — Linear Regression vs Random Forest comparison predicting fare from age/class — see `notebooks/assignment3_ml.ipynb`
+- **Assignment 4:** Classification metrics — Logistic Regression predicting Titanic survival, with accuracy/precision/recall/F1/ROC-AUC analysis — see `notebooks/assignment4_classification..ipynb`
